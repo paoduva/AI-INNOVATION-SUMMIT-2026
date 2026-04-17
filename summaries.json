@@ -1,5 +1,396 @@
 {
-  "version": "17-1",
-  "date": "2026-04-17",
-  "summaries": []
+  "generated": "2026-04-17T16:18:56.587Z",
+  "event": "AI創新百強趨勢年會 2026",
+  "sessions": [
+    {
+      "id": "d1-01",
+      "time": "09:30-09:35",
+      "room": "main",
+      "track": "主論壇",
+      "title": "開場致詞｜5%的贏家",
+      "speaker": "郭奕伶／商周集團執行長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-02",
+      "time": "09:35-09:45",
+      "room": "main",
+      "track": "主論壇",
+      "title": "政府觀點｜百工百業大轉骨，打造台灣人工智慧島",
+      "speaker": "龔明鑫／經濟部部長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-03",
+      "time": "09:45-09:55",
+      "room": "main",
+      "track": "主論壇",
+      "title": "評審觀點｜從加法到乘法，CEO的AI領導力",
+      "speaker": "簡立峰／Google前台灣董事總經理",
+      "summary": "【簡立峰／Google前台灣董事總經理：評審觀點｜從加法到乘法，CEO的AI領導力】\n\n一、 AI 焦慮蔓延與對台灣產業的衝擊 (07:39)\n簡立峰指出，近期收到大量關於「如何導入 AI」的演講邀約，反映出全台灣企業的「AI 焦慮」。他說明，AI 的進步已經造成典範轉移，甚至某種程度上「殺死」了軟體產業。雖然台灣因為軟體應用原本就不如美國普及，所以初期感受到的衝擊與驚嚇較小，但未來如製造業、金融業、醫療與教育等內需與傳統產業，都會受到深刻且巨大的影響。他比喻，過去兩年寫的程式碼，如果用 AI 重寫一次可能只需兩週，但若要修改兩年前的程式碼，用 AI 可能需要兩年，這顯示了 AI 帶來的巨大挑戰。\n\n二、 軟體產業的巨變與 AI 代碼代理（Coding Agent）的崛起 (12:13)\n簡立峰特別強調開發工具在近期發生了躍進，從 AI 輔助寫程式（AI Coder）進化到了「AI 代碼代理（Coding Agent）」。他解釋，AI 現在能夠自己寫程式來解決各行各業的自動化問題，甚至解數學題，這直接打破了軟體工程師龐大的護城河。他進一步指出，未來的軟體將是「給 AI 用的」，不再需要傳統的 UX 設計與軟體介面。因此，他認為純粹的程式設計師將會消失，工程師必須提升自我，轉型具備管理品質（QA）或產品定義（PM）的能力才能生存。\n\n三、 挑戰台灣企業的 AI 轉型之路 (11:17)\n簡立峰以玉山金控為例，指出他們雖然轉型速度快，但相較於全球趨勢仍自覺緩慢。他表示，台灣企業面臨的挑戰在於，許多公司尚未感受到 AI 的巨大衝擊，但當衝擊來臨時，他們將發現現有的程式碼難以快速修改。他認為，台灣企業應將重點放在「選擇（Selection）」而非「導入（Adoption）」，即挑選具備高敏捷性的關鍵人才（約佔1%至5%）進行核心轉型，而非強迫所有員工學習 AI。他強調，AI 應被應用於企業的「核心」業務，而非僅限於客服或行銷等周邊功能，否則將浪費頂尖人才的潛力。\n\n四、 台灣的 AI 人才荒與 M 型化社會 (16:48)\n簡立峰指出，台灣面臨嚴重的 AI 人才短缺，這是一個「沒有人才」的問題。他解釋，台灣在網路時代的人口結構與 AI 時代相比，出生人口大幅減少，導致 AI 人才數量稀缺。此外，台灣的 AI 人才呈現高度 M 型化，許多頂尖人才在高中或大學階段就選擇出國深造，導致留在台灣的人才更少。他估計，台灣每年能培養的 AI 人才僅數百人，遠不足以應付企業需求。他強調，AI 時代的成功者將是那些具備高度好奇心、學習能力強且追求完美的「超人」。\n\n五、 全球 AI 競賽與中國的崛起 (21:55)\n簡立峰分析，全球 AI 競賽中，中國大陸擁有世界 80% 的 AI 人才，其龐大的人口基數和過去二三十年在教育上的成功，使其在 AI 領域具備絕對優勢。他指出，中國大陸的 AI 產業化進程快速，其「外溢」效應將影響全球產業。他認為，台灣企業在 AI 轉型中，主要的競爭對手將來自中國大陸，而非其他國家。他建議，台灣企業應將重點放在「使用」AI 工具，而非嘗試自行開發核心 AI 技術，並應考慮「出海」尋找中國大陸的人才。\n\n六、 AI 時代對教育與社會結構的衝擊 (41:41)\n簡立峰預測，AI 將對教育體系造成顛覆性影響，傳統的學校教育模式可能瓦解。他指出，從小接觸 AI 的孩子，其學習方式將與傳統截然不同，學校將難以滿足他們的需求。他認為，AI 時代將加劇社會的 M 型化，並帶來前所未有的「焦慮感」。他比喻，這就像人類歷史上曾發生的「人口減少」現象，社會將經歷一次大洗牌，然後重新學習如何在 AI 時代教育下一代。\n\n七、 AI 工具的演進與台灣的應對策略 (51:10)\n簡立峰強調，AI 工具的快速演進，特別是從 AI Coder 到 Coding Agent 的轉變，是當前最大的變革。他指出，Coding Agent 能夠自動化程式碼撰寫，將 AI 應用推向一個新的維度，使 AI 能夠透過寫程式來解決問題，即使沒有人類的直接理解。他認為，台灣企業應將重點放在「使用」這些成熟的 AI 工具，而非試圖自行開發。他預計，今年下半年，若有安全可靠的「小龍蝦」（類似 ChatGPT 但更安全、可控的 AI 工具）出現，將會引發大量應用案例。\n\n✓ 已涵蓋錄音 [06:26] 至 [57:18]，共 9 個段落",
+      "slide_url": "https://drive.google.com/file/d/13qUCUY3P8f5anTpjV4hRG8COygwt5hsX/view"
+    },
+    {
+      "id": "d1-04",
+      "time": "09:55-10:10",
+      "room": "main",
+      "track": "主論壇",
+      "title": "獨家解析｜2026商周「AI創新百強」趨勢報告",
+      "speaker": "劉佩修／商周集團創新長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-05",
+      "time": "10:10-10:35",
+      "room": "main",
+      "track": "主論壇",
+      "title": "AI趨勢洞察｜全球工業AI龍頭 - 數位孿生驅動製造與基建新革命",
+      "speaker": "張合翕／台灣西門子總裁暨執行長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-06",
+      "time": "10:35-11:15",
+      "room": "main",
+      "track": "主論壇",
+      "title": "AI趨勢洞察｜國際策略大師 - 建構數位生態系，企業AI轉型關鍵策略",
+      "speaker": "Mohan Subramaniam／瑞士洛桑國際管理發展學院(IMD)策略與數位轉型教授・邱奕嘉／商周CEO學院院長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-07",
+      "time": "11:15-11:40",
+      "room": "main",
+      "track": "主論壇",
+      "title": "AI創新百強分享｜「AI創新百強」製造業鑽石獎得主 - AI引領產業革命，全球第一的新未來",
+      "speaker": "楊秋瑾／鴻海集團總經理",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-08",
+      "time": "11:40-12:05",
+      "room": "main",
+      "track": "主論壇",
+      "title": "AI創新百強分享｜「AI創新百強」服務業鑽石獎得主 - 用AI懂顧客的心，打造人機協作新模式",
+      "speaker": "王獻志／信義房屋數位長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-09",
+      "time": "13:30-13:55",
+      "room": "C",
+      "track": "製造/研發/人才",
+      "title": "製造業獲獎企業 - AI翻轉傳統製造，打造關燈智慧工廠",
+      "speaker": "顏心德／李長榮集團數位信息首席官",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-10",
+      "time": "13:55-14:25",
+      "room": "C",
+      "track": "製造/研發/人才",
+      "title": "加速AI落地、驅動智慧製造，建構韌性競爭力",
+      "speaker": "王喬／台灣IBM諮詢顧問協理",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-11",
+      "time": "14:40-15:10",
+      "room": "C",
+      "track": "製造/研發/人才",
+      "title": "製造AI先驅應用",
+      "speaker": "AI應用企業代表",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-12",
+      "time": "15:10-16:00",
+      "room": "C",
+      "track": "製造/研發/人才",
+      "title": "對談｜賦能未來人才AI，傳承組織智慧",
+      "speaker": "鄭至甫・沈柏延・吳文舜／主持：康育萍",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-13",
+      "time": "13:30-13:55",
+      "room": "E",
+      "track": "服務/零售/行銷",
+      "title": "服務業獲獎企業 - AI革新服務體驗，精準提升轉換率",
+      "speaker": "林文子／台灣家樂福數位長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-14",
+      "time": "13:55-14:25",
+      "room": "E",
+      "track": "服務/零售/行銷",
+      "title": "AI賦能服務業，OMO驅動營運升級",
+      "speaker": "李昆謀／91APP產品長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-15",
+      "time": "14:40-15:10",
+      "room": "E",
+      "track": "服務/零售/行銷",
+      "title": "重塑經營思維的歷程 - 從傳產到智慧家庭，「製造服務業」的AI轉型怎麼做？",
+      "speaker": "李惠恂／台灣櫻花總經理",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-16",
+      "time": "15:10-16:00",
+      "room": "E",
+      "track": "服務/零售/行銷",
+      "title": "對談｜AI創新顧客體驗，從效率革命到經營人心",
+      "speaker": "AI創新百強得主",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-17",
+      "time": "13:30-13:55",
+      "room": "G",
+      "track": "金融/財管/人才",
+      "title": "金融業獲獎企業 - AI創新信貸服務，有效風控、普惠金融",
+      "speaker": "張智星／玉山金控科技長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-18",
+      "time": "13:55-14:25",
+      "room": "G",
+      "track": "金融/財管/人才",
+      "title": "助力AI轉型，打造智慧金融解決方案",
+      "speaker": "吳文舜／精誠集團副總經理",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-19",
+      "time": "14:40-15:10",
+      "room": "G",
+      "track": "金融/財管/人才",
+      "title": "建立組織AI腦，賦能2萬業務大軍變「混血人才」",
+      "speaker": "林佩靜／國泰人壽副總經理",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d1-20",
+      "time": "15:10-16:00",
+      "room": "G",
+      "track": "金融/財管/人才",
+      "title": "對談｜打破數據孤島AI加速組織決策",
+      "speaker": "張智星・林佩靜・譚子聰／主持：劉佩修",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-01",
+      "time": "09:30-09:35",
+      "room": "main",
+      "track": "主論壇",
+      "title": "開場致詞",
+      "speaker": "劉佩修／商周集團創新長",
+      "summary": "https://drive.google.com/file/d/13qUCUY3P8f5anTpjV4hRG8COygwt5hsX/view?usp=sharing",
+      "slide_url": null
+    },
+    {
+      "id": "d2-02",
+      "time": "09:35-09:45",
+      "room": "main",
+      "track": "主論壇",
+      "title": "評審觀點｜AI時代典範轉移，重塑企業核心競爭力",
+      "speaker": "劉鏡清／國家發展委員會前主委",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-03",
+      "time": "09:45-10:05",
+      "room": "main",
+      "track": "主論壇",
+      "title": "AI趨勢洞察｜地緣政治最前線，AI時代的世界新台商",
+      "speaker": "黃志芳／外貿協會董事長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-04",
+      "time": "10:05-10:30",
+      "room": "main",
+      "track": "主論壇",
+      "title": "AI趨勢洞察｜科技矽島以小博大 - 台灣AI應用新契機",
+      "speaker": "黃欽勇／DIGITIMES暨IC之音董事長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-05",
+      "time": "10:30-10:55",
+      "room": "main",
+      "track": "主論壇",
+      "title": "AI應用密碼｜國際策略顧問解題 - 打造「AI First」企業，實現轉型競爭力",
+      "speaker": "徐瑞廷／BCG台北分公司董事總經理暨資深合夥人",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-06",
+      "time": "10:55-11:20",
+      "room": "main",
+      "track": "主論壇",
+      "title": "AI應用密碼｜點燃應用火炬，中小企業AI最佳解方",
+      "speaker": "潘健成／群聯電子執行長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-07",
+      "time": "11:20-11:45",
+      "room": "main",
+      "track": "主論壇",
+      "title": "AI創新百強分享｜「AI創新百強」金融業鑽石獎得主 - 建構企業AI大腦，數據驅動人才、掌握精準商機",
+      "speaker": "賈景光／中國信託金控資訊長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-08",
+      "time": "11:45-12:10",
+      "room": "main",
+      "track": "主論壇",
+      "title": "AI創新百強分享｜「AI創新百強」資通訊業鑽石獎得主 - AI代理人時代，「超人計劃」賦能轉型升級",
+      "speaker": "蔡祈岩／台灣大哥大資訊長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-09",
+      "time": "13:30-13:55",
+      "room": "E",
+      "track": "資通訊業",
+      "title": "資通訊業獲獎企業 - 自建AI模型，發揮百倍組織戰力",
+      "speaker": "邱銘彰／奧義賽博共同創辦人",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-10",
+      "time": "13:55-14:25",
+      "room": "C",
+      "track": "醫療業",
+      "title": "服務業獲獎企業 - 從LLM邁向世界模型，生醫產業如何加速AI演進？",
+      "speaker": "蔡政憲／訊聯基因數位執行長",
+      "summary": "https://drive.google.com/file/d/13qUCUY3P8f5anTpjV4hRG8COygwt5hsX/view?usp=sharing",
+      "slide_url": "https://drive.google.com/file/d/13qUCUY3P8f5anTpjV4hRG8COygwt5hsX/view?usp=sharing"
+    },
+    {
+      "id": "d2-11",
+      "time": "13:30-13:55",
+      "room": "G",
+      "track": "新創產業",
+      "title": "對談｜1+1=∞新創藍圖相對論",
+      "speaker": "邱瓊玉・張茂益・陳立偉／主持：管婺媛",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-12",
+      "time": "13:55-14:25",
+      "room": "E",
+      "track": "資通訊業",
+      "title": "打造「AI原生」建築生態系，健康住宅新革命",
+      "speaker": "劉克健／寶舖建設董事長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-13",
+      "time": "13:55-14:25",
+      "room": "C",
+      "track": "醫療業",
+      "title": "智慧醫療全進化，打造AI即時決策戰情室",
+      "speaker": "周德陽／中國醫藥大學附設醫院院長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-14",
+      "time": "14:25-14:40",
+      "room": "G",
+      "track": "新創產業",
+      "title": "世界盃成長之路",
+      "speaker": "曾文興／佳世達智能方案事業群總經理",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-15",
+      "time": "14:40-15:10",
+      "room": "E",
+      "track": "資通訊業",
+      "title": "AI升級場域安防力，打造企業自主防災大腦",
+      "speaker": "林建涵／中興保全科技董事長",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-16",
+      "time": "14:40-15:10",
+      "room": "C",
+      "track": "醫療業",
+      "title": "從智能客服到智能業務，AI獲Z世代新客群",
+      "speaker": "黃信川／雄獅旅遊董事總經理",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-17",
+      "time": "15:10-16:00",
+      "room": "E",
+      "track": "資通訊業",
+      "title": "對談｜AI驅動轉型策略，開創新商模、打造第二成長曲線",
+      "speaker": "賴偉晏・林政君／主持：吳中傑",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-18",
+      "time": "15:10-16:00",
+      "room": "C",
+      "track": "醫療業",
+      "title": "對談｜AI迎戰缺工挑戰，重塑職能、建立韌性團隊",
+      "speaker": "林德偉・黃漢傑・江錦樺／主持：呂國禎",
+      "summary": null,
+      "slide_url": null
+    },
+    {
+      "id": "d2-19",
+      "time": "15:10-16:00",
+      "room": "G",
+      "track": "新創產業",
+      "title": "對談｜從1到100新創藍圖相對論",
+      "speaker": "余萬洲・吳君孝・柯志諭・曾文興／主持：管婺媛",
+      "summary": null,
+      "slide_url": null
+    }
+  ]
 }
